@@ -1,0 +1,25 @@
+img {
+    height: 200px;
+    width: 700px;
+  }
+
+  .image01{
+    max-width: 100%;
+  height: auto;
+  border-radius: 100px;
+  }
+  .image02{
+    max-width: 100%;
+  height: auto;
+  border-radius: 100px;
+  }
+  .image03{
+    max-width: 100%;
+  height: auto;
+  border-radius: 100px;
+  }
+  .image04{
+    max-width: 100%;
+  height: auto;
+  border-radius: 100px;
+  }

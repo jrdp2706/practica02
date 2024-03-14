@@ -1,0 +1,30 @@
+.li1{
+    display:block; 
+    width:300px; 
+    height:28px; 
+    background-color:#ed0f0f; 
+    border-left:5px solid #e93030; 
+    border-right:5px solid #e24338; 
+    padding-left:10px;
+    text-decoration:none; 
+    color:#000000; 
+}
+.li2{
+    background-color: rgb(210, 232, 18);
+    width:300px; 
+    height:28px;
+    padding-left:10px;
+    margin-top: 10px;
+    border-left:5px solid #889a06; 
+    border-right:5px solid #9dab04; 
+    
+}
+.li3{
+    background-color: rgb(248, 109, 10);
+    width:300px; 
+    height:28px;
+    padding-left:10px;
+    margin-top: 10px;
+    border-left:5px solid #893805; 
+    border-right:5px solid #763c03; 
+}
